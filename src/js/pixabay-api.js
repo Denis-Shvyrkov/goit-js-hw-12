@@ -1,3 +1,4 @@
+'use strict';
 import axios from 'axios';
 
 export async function searchImages(searchTerm, page, perPage) {
